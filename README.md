@@ -44,7 +44,7 @@ Before running the project, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/private-chat-app.git
+git clone https://github.com/Abid0987/Private-Chat-Application.git
 cd private-chat-app
 
 ### 2. Set Up the Backend
